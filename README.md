@@ -1,6 +1,6 @@
 ### Hi there i'm @C-0B👋
 
-[![trophy](https://github-profile-trophy.vercel.app/C-0B=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
