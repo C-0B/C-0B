@@ -1,6 +1,6 @@
 ### Hi there i'm @C-0B👋
 
-https://github-profile-trophy.vercel.app/C-0B=ryo-ma&rank=S
+![Visitor Count](https : //profile-counter.glitch.me/C-0B/count.svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
