@@ -1,6 +1,6 @@
 ### Hi there i'm @C-0B👋
 
-![Visitor Count](https : //profile-counter.glitch.me/C-0B/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/C-0B/count.svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
