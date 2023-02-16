@@ -6,3 +6,5 @@
 
 - 🔭 I have a number of things that are on my list to work more with, some of which are ⭯ reverse engineering🔧, other web frameworks and AI models
 <!-- - 🌱 I’m currently learning, and number of different frameworks -->
+
+- 🖌️ I also like experimenting with computer art using Blender, GIMP and Inkscape
