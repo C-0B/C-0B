@@ -1,4 +1,4 @@
-### Hi there i'm @C-0B👋
+### Hi there i'm Connor👋
 
  - 🌐 I'm always looking for new, fun and exciting things to do. Im currently expanding my knowledge on web development with React.
 
