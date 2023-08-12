@@ -1,6 +1,6 @@
 ### Hi there i'm Connor👋
 
- - 🌐 Currently working ob web developement with [Next.js](https://nextjs.org/).
+ - 🌐 Currently working on a web developement project with [Next.js](https://nextjs.org/).
 
 - 🖥️ I have worked a number of languages including `(but not limited to)` Python, Java, C, C++, C#, HTML, CSS, JavaScript, PHP and Haskell each in varying capacities. 
 
