@@ -2,9 +2,9 @@
 
  - 🧊 Currently working on the [polycube problem](https://en.wikipedia.org/wiki/Polycube) using C++ and visualising it with OpenGL
 
-- 🖥️ I have worked a number of languages including `(but not limited to)` Python, Java, C, C++, C#, HTML, CSS, JavaScript, PHP and Haskell each in varying capacities. 
+- 🖥️ I have worked on a number of languages including `(but not limited to)` Python, Java, C, C++, C#, HTML, CSS, JavaScript, PHP and Haskell each in varying capacities. 
 
-- 🔭 There is a large list of things that I would like to work on inclding: ⭯ reverse engineering🔧, other web developemnt stuff, AI models and .NET.
+- 🔭 There is a large list of things that I would like to work on inclding: ⭯ reverse engineering🔧, other web developement stuff and AI models
 <!-- - 🌱 I’m currently learning, and number of different frameworks -->
 
 - 🖌️ I also like experimenting with art using Blender, GIMP and Inkscape
