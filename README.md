@@ -8,5 +8,6 @@
 <!-- - 🌱 I’m currently learning, and number of different frameworks -->
 
 - 🖌️ I also like experimenting with art using Blender, GIMP and Inkscape
-
+ <!--
 - I also have a [website via GitHub pages](https://c-0b.github.io) (that is up most of the time)
+-->
